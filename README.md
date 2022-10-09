@@ -1,5 +1,6 @@
 # About
-* This code can be used to calculate mean square displacement(msd) of interfacial water.
+* This code can be used to calculate mean square displacement(msd) of interfacial water(IW).
+* IW are considered as those water molecule which are within 6 Angstorm from the protein backbone atom.
 * The code is capable to calculate msd of bulk water also.
 
 
